@@ -1,0 +1,16 @@
+Turma:
+
+IdTurma: 7e3639d0-f697-42a5-a6a7-479ff2579004Nome da turma: Turma Noite C# WebDeveloper
+DataInicio: 24/06/2024
+
+Professor: 
+
+IdProfessor: c1ced204-c814-45df-a0ee-68f6f517d2d6
+Nome: Sergio Mendes
+Email: sergio.coti@gmail.com
+
+Curso: 
+
+IdCurso: a221f9b6-16b5-437a-a191-006284f53154
+Titulo: C# WebDeveloper
+CargaHoraria: 96

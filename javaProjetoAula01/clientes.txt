@@ -1,0 +1,7 @@
+
+ID.........: 86827c03-1f33-4cb4-b1fc-de002738ed18
+NOME.......: Samuel Maciel
+EMAIL......: samuelmsilva@outlook.com.br
+CPF........: 190-617-417.26
+DATA/HORA..: Thu Jun 20 16:28:03 BRT 2024
+...

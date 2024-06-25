@@ -1,0 +1,8 @@
+DADOS DO PRODUTO:
+ID........: 1831da32-b8b0-476d-a5ca-a0a505ce8daf
+NOME......: Notebook Dell
+DESCRIÇÃO.: Notebook Core i7 SSD
+PREÇO.....: 6000.0
+QUANTIDADE: 10
+CÓDIGO....: INF001
+DESCRIÇÃO.: Produtos de informática

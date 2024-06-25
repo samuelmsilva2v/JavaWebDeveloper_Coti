@@ -1,0 +1,8 @@
+
+FUNCIONÁRIO ID: d22ab737-236a-42c2-bd5f-80b9c72fc049
+NOME: Samuel Maciel
+CPF: 190-617-417.26
+MATRÍCULA: 001122
+SALÁRIO: 8800.0
+SETOR: entities.Setor@6483f5ae
+FUNÇÃO: entities.Funcao@b9afc07
